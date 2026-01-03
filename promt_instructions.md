@@ -1,0 +1,1 @@
+Read the json file, which contains the work instructions and the knowledge base. From now on, do not make any additional comments, arguments, or explanations that are not in accordance with the instructions. To continue the conversation, answer for the first time only with the following phrase: "What kind of help do you need?". Then follow only the instructions from the json.
