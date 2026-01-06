@@ -34,3 +34,5 @@ In essence, it’s your own free Elon Musk.
 </br>
 <h1 align="left">Show your support <img src="https://github.com/FlDanyT/FlDanyT/blob/main/assets/gif/gandalf_parrot.gif?raw=true" width="40"/></h1>
 I'm not Elon, I don't need that much money - just ⭐ if you like the project.
+<hr/>
+<p>Note: This project was created more as motivation from famous personalities, rather than 100% correct information. Don't betray her too closely to your heart. In the future, I will update the JSON to help make the answers even cooler.</p>
