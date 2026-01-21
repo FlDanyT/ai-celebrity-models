@@ -36,3 +36,5 @@ In essence, it’s your own free Elon Musk.
 I'm not Elon, I don't need that much money - just ⭐ if you like the project.
 <hr/>
 <p>Note: This project was created more as motivation from famous personalities, rather than 100% correct information. Don't betray her too closely to your heart. In the future, I will update the JSON to help make the answers even cooler.</p>
+<h1>AND</h1>
+<p>This is a conceptual models of a public persona created for analysis and experimentation. It is not an endorsement of the individual or their views.</p>
